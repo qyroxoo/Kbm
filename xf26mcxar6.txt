@@ -1,4 +1,4 @@
-local credts = "made by len 2023"
+local credts = "made by Qyroxoo"
 local UIS = game:GetService("UserInputService")
 local TweenService = game:GetService("TweenService")
 local RunService = game:GetService("RunService")
